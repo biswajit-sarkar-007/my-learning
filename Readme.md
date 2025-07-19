@@ -12,3 +12,6 @@ day: 05-05-2025 -> SQL: https://www.w3schools.com/sql/sql_intro.asp    | docker:
 
 
 14/07/2025: javascripts fundamentals
+
+
+clerk: https://clerk.com/docs/references/nextjs/
