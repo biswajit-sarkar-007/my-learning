@@ -15,3 +15,6 @@ day: 05-05-2025 -> SQL: https://www.w3schools.com/sql/sql_intro.asp    | docker:
 
 
 clerk: https://clerk.com/docs/references/nextjs/
+
+
+inngest: https://www.inngest.com/docs/getting-started/nextjs-quick-start  |  https://github.com/inngest/inngest
