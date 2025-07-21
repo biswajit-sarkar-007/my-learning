@@ -18,3 +18,7 @@ clerk: https://clerk.com/docs/references/nextjs/
 
 
 inngest: https://www.inngest.com/docs/getting-started/nextjs-quick-start  |  https://github.com/inngest/inngest
+
+css : https://tailwindcss.com/docs/grid-template-rows
+
+components : https://ui.shadcn.com/docs/components/card
