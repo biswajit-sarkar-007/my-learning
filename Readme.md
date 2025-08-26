@@ -2,11 +2,11 @@ for javascript:  https://262.ecma-international.org/
 
 callback , stck/ loops: http://latentflip.com/loupe/
 
-next js :
+next js :  https://nextjs.org/
 
-turbo repo: 
+turbo repo: https://turborepo.com/
 
-AWS : 
+AWS : https://aws.amazon.com/ 
 
 day: 05-05-2025 -> SQL: https://www.w3schools.com/sql/sql_intro.asp    | docker: https://www.docker.com/
 
