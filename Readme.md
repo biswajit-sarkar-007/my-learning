@@ -2,6 +2,8 @@ for javascript:  https://262.ecma-international.org/
 
 callback , stck/ loops: http://latentflip.com/loupe/
 
+zod(input validation): https://zod.dev/ 
+
 next js :  https://nextjs.org/
 
 turbo repo: https://turborepo.com/
