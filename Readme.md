@@ -4,6 +4,8 @@ callback , stck/ loops: http://latentflip.com/loupe/
 
 zod(input validation): https://zod.dev/ 
 
+jwt: https://www.jwt.io/
+
 next js :  https://nextjs.org/
 
 turbo repo: https://turborepo.com/
