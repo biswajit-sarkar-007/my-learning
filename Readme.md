@@ -9,4 +9,5 @@
 -  mongoose: https://mongoosejs.com/
 
 -  routing: https://reactrouter.com/
- 
+
+- recoil: https://recoiljs.org/docs/basic-tutorial/atoms
