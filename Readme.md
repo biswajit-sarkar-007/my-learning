@@ -13,3 +13,5 @@
 - recoil: https://recoiljs.org/docs/basic-tutorial/atoms
 
 - tailwind: https://tailwindcss.com/docs/installation/using-vite
+
+- axios: https://axios-http.com/
