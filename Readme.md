@@ -15,3 +15,5 @@
 - tailwind: https://tailwindcss.com/docs/installation/using-vite
 
 - axios: https://axios-http.com/
+
+- prisma: https://www.prisma.io/docs/orm
