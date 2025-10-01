@@ -17,3 +17,5 @@
 - axios: https://axios-http.com/
 
 - prisma: https://www.prisma.io/docs/orm
+
+- monorepo: https://turborepo.com/
