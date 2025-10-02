@@ -19,3 +19,5 @@
 - prisma: https://www.prisma.io/docs/orm
 
 - monorepo: https://turborepo.com/
+
+- docker images: https://hub.docker.com/
