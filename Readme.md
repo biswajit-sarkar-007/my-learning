@@ -21,3 +21,5 @@
 - monorepo: https://turborepo.com/
 
 - docker images: https://hub.docker.com/
+
+- hono(cloudflare http framework): https://hono.dev/docs/api/routing
