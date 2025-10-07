@@ -25,3 +25,5 @@
 - hono(cloudflare http framework): https://hono.dev/docs/api/routing
 
 - style : https://flowbite.com/
+
+- nextjs : https://nextjs.org/
