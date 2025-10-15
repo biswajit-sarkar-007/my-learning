@@ -27,3 +27,5 @@
 - nextjs : https://nextjs.org/
 
 - docker images: https://hub.docker.com/
+
+- nextAuth: https://next-auth.js.org/
